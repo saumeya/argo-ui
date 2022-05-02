@@ -2,7 +2,7 @@ import * as React from 'react';
 
 import './checkbox.scss';
 
-export const Checkbox = (props: {value?: boolean; onChange?: (value: boolean) => void; style?: React.CSSProperties | any}) => {
+export const Checkbox = (props: {value?: boolean; onChange?: (value: boolean) => void; id?: string; style?: React.CSSProperties | any}) => {
     const [value, setValue] = React.useState<boolean>(props.value);
 
     const syncValue = (val: boolean) => {
@@ -18,6 +18,7 @@ export const Checkbox = (props: {value?: boolean; onChange?: (value: boolean) =>
 
     return (
         <div
+            id={props.id}
             className={`checkbox ${value ? 'checkbox--selected' : ''}`}
             onClick={(e) => {
                 e.stopPropagation();
