@@ -50,7 +50,7 @@
         "rxjs": "^7.5.5"
     },
     "devDependencies": {
-        "@babel/core": "^7.18.9",
+        "@babel/core": "^7.18.13",
         "@dump247/storybook-state": "^1.6.1",
         "@storybook/addon-actions": "^6.5.9",
         "@storybook/addon-controls": "^6.5.9",
