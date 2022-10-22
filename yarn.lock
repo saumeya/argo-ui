@@ -2166,7 +2166,7 @@
     regenerator-runtime "^0.13.7"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-links@^6.5.12":
+"@storybook/addon-links@*", "@storybook/addon-links@^6.5.12":
   version "6.5.12"
   resolved "https://registry.yarnpkg.com/@storybook/addon-links/-/addon-links-6.5.12.tgz#57ec0c651ef29f9d969a2d715f85a69d5ce29e60"
   integrity sha512-Dyt922J5nTBwM/9KtuuDIt3sX8xdTkKh+aXSoOX6OzT04Xwm5NumFOvuQ2YA00EM+3Ihn7Ayc3urvxnHTixmKg==
@@ -3804,11 +3804,12 @@
   dependencies:
     "@storybook/addon-actions" "*"
 
-"@types/storybook__addon-links@^3.3.0":
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/@types/storybook__addon-links/-/storybook__addon-links-3.3.1.tgz#5bbfc05b3882c4c2afd8378222199ba0c570f524"
+"@types/storybook__addon-links@^5.2.1":
+  version "5.2.1"
+  resolved "https://registry.yarnpkg.com/@types/storybook__addon-links/-/storybook__addon-links-5.2.1.tgz#10a731c1a09dff4a1f14e3f867a57b3ab9364c15"
+  integrity sha512-XnymXhgUKeissuS50+quxortJx3b7YkTCbKZ6PsoOSN7uq7c0iIRZUk0w4V4t0lfHRwSNBd8MECnEHIcD+AvVA==
   dependencies:
-    "@types/react" "*"
+    "@storybook/addon-links" "*"
 
 "@types/storybook__react@^3.0.7":
   version "3.0.8"
