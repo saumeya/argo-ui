@@ -90,7 +90,7 @@
         "enzyme-adapter-react-16": "^1.15.7",
         "enzyme-to-json": "^3.6.2",
         "foreman": "^3.0.1",
-        "glob": "^9.2.1",
+        "glob": "^9.3.2",
         "gulp": "^4.0.2",
         "gulp-less": "^5.0.0",
         "gulp-minify-css": "^1.2.4",
