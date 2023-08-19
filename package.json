@@ -57,7 +57,7 @@
         "@storybook/addon-essentials": "^7.0.23",
         "@storybook/addon-links": "^7.1.1",
         "@storybook/addons": "^7.2.3",
-        "@storybook/react": "^7.0.24",
+        "@storybook/react": "^7.3.2",
         "@testing-library/react": "^12.1.5",
         "@testing-library/user-event": "^14.4.3",
         "@types/chai": "^4.3.5",
