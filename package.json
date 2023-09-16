@@ -109,7 +109,7 @@
         "react-hot-loader": "^4.13.0",
         "react-keyhooks": "^0.2.2",
         "react-test-renderer": "^16.9.3",
-        "sass": "^1.66.1",
+        "sass": "^1.67.0",
         "sass-loader": "^v13.3.2",
         "source-map-loader": "^4.0.1",
         "storybook": "^7.3.2",
