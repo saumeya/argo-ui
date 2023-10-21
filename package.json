@@ -60,7 +60,7 @@
         "@storybook/react": "^7.4.4",
         "@testing-library/react": "^12.1.5",
         "@testing-library/user-event": "^14.5.1",
-        "@types/chai": "^4.3.6",
+        "@types/chai": "^4.3.9",
         "@types/classnames": "^2.3.1",
         "@types/deep-equal": "^1.0.1",
         "@types/enzyme": "^3.10.14",
