@@ -110,7 +110,7 @@
         "react-keyhooks": "^0.2.2",
         "react-test-renderer": "^16.9.3",
         "sass": "^1.71.0",
-        "sass-loader": "^v14.0.0",
+        "sass-loader": "^v14.1.1",
         "source-map-loader": "^5.0.0",
         "storybook": "^7.6.10",
         "style-loader": "^3.3.4",
