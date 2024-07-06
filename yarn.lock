@@ -3619,10 +3619,10 @@
   resolved "https://registry.yarnpkg.com/@types/range-parser/-/range-parser-1.2.4.tgz#cd667bcfdd025213aafb7ca5915a932590acdcdc"
   integrity sha512-EEhsLsD6UsDM1yFhAvy0Cjr6VwmpMWqFBCb9w07wVugF7w9nfajxLuVmngTIpgS6svCnm6Vaw+MZhoDCKnOfsw==
 
-"@types/react-autocomplete@^1.8.10":
-  version "1.8.10"
-  resolved "https://registry.yarnpkg.com/@types/react-autocomplete/-/react-autocomplete-1.8.10.tgz#c48d01cfdb936a9958058aba119fc09e8b5bd8e2"
-  integrity sha512-3pL4pHLKIKuwDArUfCg8y697tsRSNyowofZGpV8vYKoGc5Jws0jrnzqTgdUHcZew0g0UxcFO1zeXD7LG0WSggg==
+"@types/react-autocomplete@^1.8.11":
+  version "1.8.11"
+  resolved "https://registry.yarnpkg.com/@types/react-autocomplete/-/react-autocomplete-1.8.11.tgz#fef4702fdb739f11ed6694c84ba9d8e4af60b4c0"
+  integrity sha512-JYaD/OGfVFMK5NaGOCAd25QRs4MEevapn38xvYWjwo5brxrUMo2PucYmShTfuTX99r80UtncCMDrFZ9MGIVyvQ==
   dependencies:
     "@types/react" "*"
 
