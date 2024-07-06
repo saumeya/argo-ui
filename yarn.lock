@@ -2311,10 +2311,10 @@
   dependencies:
     "@storybook/global" "^5.0.0"
 
-"@storybook/addon-links@^8.1.9":
-  version "8.1.9"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-links/-/addon-links-8.1.9.tgz#17a9701c2a87383f851365044dbea711ca417a40"
-  integrity sha512-gawakQHokGDLEDIyyJzxHB0d5AJi2sSLzoNc0cvewEE55i6T7jvpXpVqTu6/ZtVFZ+3x3gLIQ6Q3krNNIz6W2A==
+"@storybook/addon-links@^8.1.11":
+  version "8.1.11"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-links/-/addon-links-8.1.11.tgz#3e15ac7fe1b7d298b7200f36b772baf6449a64c2"
+  integrity sha512-HlV2RQSrZyi+55W1B1a9eWNuJdNpWx0g3j7s2arNlNmbd6/kfWAp84axBstI1tL0nW4svut7bWlCsMSOIden+A==
   dependencies:
     "@storybook/csf" "^0.1.7"
     "@storybook/global" "^5.0.0"
