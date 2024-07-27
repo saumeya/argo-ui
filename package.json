@@ -112,7 +112,7 @@
         "sass": "^1.77.8",
         "sass-loader": "^v14.2.1",
         "source-map-loader": "^5.0.0",
-        "storybook": "^8.1.11",
+        "storybook": "^8.2.6",
         "style-loader": "^4.0.0",
         "ts-jest": "^26.5.6",
         "ts-loader": "^9.5.1",
