@@ -55,7 +55,7 @@
         "@storybook/addon-actions": "^8.2.9",
         "@storybook/addon-controls": "^8.2.9",
         "@storybook/addon-essentials": "^8.2.9",
-        "@storybook/addon-links": "^8.2.9",
+        "@storybook/addon-links": "^8.3.0",
         "@storybook/addons": "^7.6.17",
         "@storybook/react": "^8.2.9",
         "@testing-library/react": "^12.1.5",
