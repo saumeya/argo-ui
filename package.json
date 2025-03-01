@@ -52,7 +52,7 @@
     "devDependencies": {
         "@babel/core": "^7.26.9",
         "@dump247/storybook-state": "^1.6.1",
-        "@storybook/addon-actions": "^8.5.3",
+        "@storybook/addon-actions": "^8.6.2",
         "@storybook/addon-controls": "^8.5.8",
         "@storybook/addon-essentials": "^8.5.6",
         "@storybook/addon-links": "^8.5.8",
