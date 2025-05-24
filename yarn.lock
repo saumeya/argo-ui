@@ -1080,10 +1080,19 @@
     memoizerific "^1.11.3"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-controls@8.6.12", "@storybook/addon-controls@^8.6.11":
+"@storybook/addon-controls@8.6.12":
   version "8.6.12"
   resolved "https://registry.yarnpkg.com/@storybook/addon-controls/-/addon-controls-8.6.12.tgz#a2a8d9c0b571040ea7d6890ed250f2e1175bf176"
   integrity sha512-9VSRPJWQVb9wLp21uvpxDGNctYptyUX0gbvxIWOHMH3R2DslSoq41lsC/oQ4l4zSHVdL+nq8sCTkhBxIsjKqdQ==
+  dependencies:
+    "@storybook/global" "^5.0.0"
+    dequal "^2.0.2"
+    ts-dedent "^2.0.0"
+
+"@storybook/addon-controls@^8.6.14":
+  version "8.6.14"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-controls/-/addon-controls-8.6.14.tgz#4aafdd25276a0b86a8b744ef8344998f458cb5a5"
+  integrity sha512-IiQpkNJdiRyA4Mq9mzjZlvQugL/aE7hNgVxBBGPiIZG6wb6Ht9hNnBYpap5ZXXFKV9p2qVI0FZK445ONmAa+Cw==
   dependencies:
     "@storybook/global" "^5.0.0"
     dequal "^2.0.2"
