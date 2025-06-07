@@ -1094,10 +1094,10 @@
     dequal "^2.0.2"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-controls@^9.0.1":
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-controls/-/addon-controls-9.0.1.tgz#ff3bc16870f91e38407ecc060b3d5a1f52007689"
-  integrity sha512-7Heryp9HjFnZXCD7p5yd6Qo0qBpBSWdMIzoxr5MdJGGL3PZe0Wm6hx85uC+LUUd9UzNWfOuRpZqr3+sMBxBONA==
+"@storybook/addon-controls@^9.0.5":
+  version "9.0.5"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-controls/-/addon-controls-9.0.5.tgz#2031d768a410e695f19d7719be68fd8095eb833c"
+  integrity sha512-ot4rKr74lOXA2wbxANjr4Q5W+5LtUwjaFabaCg7k+3ClBCIpUse5kTclxi1NCtsI/NP2JKYFXo1/+egl0ReqQw==
 
 "@storybook/addon-docs@8.6.14":
   version "8.6.14"
