@@ -81,7 +81,7 @@
         "@types/storybook__react": "^5.2.1",
         "@types/yamljs": "^0.2.34",
         "babel-loader": "^10.0.0",
-        "chai": "^5.2.0",
+        "chai": "^5.2.1",
         "copy-webpack-plugin": "^13.0.0",
         "copyfiles": "^2.4.1",
         "css-loader": "^7.1.2",
