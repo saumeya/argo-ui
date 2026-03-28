@@ -102,7 +102,7 @@
         "less": "^4.6.4",
         "less-loader": "^12.3.2",
         "less-plugin-autoprefix": "^2.0.0",
-        "mini-css-extract-plugin": "^2.10.1",
+        "mini-css-extract-plugin": "^2.10.2",
         "raw-loader": "^4.0.2",
         "react": "^16.9.3",
         "react-dom": "^16.9.3",
